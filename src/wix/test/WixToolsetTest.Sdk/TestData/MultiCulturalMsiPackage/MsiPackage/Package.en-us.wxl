@@ -1,3 +1,0 @@
-<WixLocalization xmlns="http://wixtoolset.org/schemas/v4/wxl" Culture="en-US">
-  <String Id="DowngradeError" Value="EN-US Downgrade Error" />
-</WixLocalization>
